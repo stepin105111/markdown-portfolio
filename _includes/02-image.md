@@ -1,1 +1,1 @@
-alt- text IMG_20190114_232645
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
