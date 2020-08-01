@@ -1,3 +1,3 @@
-# color= "Bold"
-# red= "italics"
-# orange= "italics"
+* color= "Bold"
+* red= "italics"
+* orange= "italics"
