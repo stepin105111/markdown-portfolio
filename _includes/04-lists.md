@@ -1,3 +1,3 @@
-# car
-# bus
-# train
+* car
+* bus
+* train
